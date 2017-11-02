@@ -4,4 +4,6 @@ public class test {
 	
 	public int a; 
 	
+	public int b;
+	
 }
