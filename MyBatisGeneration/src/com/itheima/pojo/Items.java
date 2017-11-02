@@ -17,6 +17,7 @@ public class Items {
     private String detail;
 
     public Integer getId() {
+    	//
         return id;
     }
 

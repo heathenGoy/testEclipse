@@ -7,4 +7,9 @@ public class test {
 	private String b;
 	
 	private double f;
+	
+	public int a; 
+	
+	public int b;
+	
 }
